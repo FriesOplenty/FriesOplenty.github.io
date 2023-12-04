@@ -1,4 +1,3 @@
 # FriesOplenty.github.io
 Angelo Judle O. Nunez
-## Cheese Fries
-
+## Cheese Fries 
