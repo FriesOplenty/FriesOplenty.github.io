@@ -1,7 +1,7 @@
 # FriesOplenty.github.io
 Angelo Judle O. Nunez
 # A website about French Fries
-<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/0r3RvW5jN4WobV816C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/frittenwerk-hungry-pommes-fritten-0r3RvW5jN4WobV816C">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/dCBADh4ArZYvS8Oz0X" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nandosaus-chips-nandos-peri-dCBADh4ArZYvS8Oz0X">via GIPHY</a></p>
 
 ## fun fact: 
 1. The world's largest order of French fries was placed in 2012 by a group of students in India. They ordered 10,942 kg (24,117 lbs) of French fries from McDonald's.
@@ -26,3 +26,8 @@ French fries, also known as "pommes frites" in French, were not a popular dish i
 
 ## A VERY normal video of how to make the most basic of fries
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTS4OlryASo?si=VZ6W8tR5Wp8R7OyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe src="https://giphy.com/embed/hSqhdz53Nn4WI" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/french-fries-food-sizzle-hSqhdz53Nn4WI">via GIPHY</a></p>
+
+# Thats all for now :)
