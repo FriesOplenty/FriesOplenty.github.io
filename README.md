@@ -23,3 +23,6 @@ Angelo Judle O. Nunez
 ![Facade](https://victualling.files.wordpress.com/2021/12/duvalblvdpoisonierre1882.jpg)
 
 French fries, also known as "pommes frites" in French, were not a popular dish in early 18th century Paris. At that time, potatoes were not commonly consumed in France, and they were primarily grown as a crop for animal feed. The first recorded use of potatoes in French cuisine was in 1753, when a French chemist named Antoine-Augustin Parmentier began advocating for their consumption as a food source for humans. However, it would be several decades before potatoes became a staple food in France, and even longer before French fries became a popular dish. The modern-day French fry, as we know it today, is believed to have originated in Belgium in the 1800s.
+
+## A VERY normal video of how to make the most basic of fries
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ETTyVQrUZt8?si=UNhVGFLjHmiiOg__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
